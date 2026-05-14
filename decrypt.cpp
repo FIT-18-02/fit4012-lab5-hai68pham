@@ -8,6 +8,7 @@
 #include <sstream>
 #include "structures.h"
 
+
 using namespace std;
 
 /* Used in Round() and serves as the final round during decryption
