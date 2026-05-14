@@ -7,6 +7,7 @@
 
 ---
 
+
 ## Mục tiêu
 
 Bài thực hành giúp sinh viên hiểu quy trình mã hóa và giải mã AES-128 ở mức nhập môn, bao gồm xử lý block 128-bit, mở rộng khóa, các phép biến đổi theo vòng và cơ chế padding đơn giản.
