@@ -4,6 +4,7 @@
 #ifndef STRUCTURES_H
 #define STRUCTURES_H
 
+
 // Encryption: Forward Rijndael S-box 
 unsigned char s[256] =
 {
